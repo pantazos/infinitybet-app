@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "777596879426",
+    "firebase_url": "https://infinitybet-cbaa8.firebaseio.com",
+    "project_id": "infinitybet-cbaa8",
+    "storage_bucket": "infinitybet-cbaa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777596879426:android:6c24f4f17393bf8e7ee3db",
+        "android_client_info": {
+          "package_name": "com.infinitybet.premierleague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777596879426-455rsi5891243enjqgk9iqkrrppu54or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBldokK2QAcfynwp-SR7Mf6Vx39Q6NV_38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777596879426-455rsi5891243enjqgk9iqkrrppu54or.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777596879426-1clg127c5cuv9svvda7fep46h0tteepf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinitybet.sports.iOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777596879426:android:e4f42c5f1c110cd77ee3db",
+        "android_client_info": {
+          "package_name": "com.infinitybet.sport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777596879426-455rsi5891243enjqgk9iqkrrppu54or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBldokK2QAcfynwp-SR7Mf6Vx39Q6NV_38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777596879426-455rsi5891243enjqgk9iqkrrppu54or.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777596879426-1clg127c5cuv9svvda7fep46h0tteepf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinitybet.sports.iOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777596879426:android:18d6e3b26ff3ec62",
+        "android_client_info": {
+          "package_name": "com.infinitybet.sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777596879426-96pkli38orct0l4dumkpq982hdslhlhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinitybet.sports",
+            "certificate_hash": "7d69ad8593121107a106fd3be45526230009be65"
+          }
+        },
+        {
+          "client_id": "777596879426-r51n97nea7v4thpdq75eipm8g1tp325q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinitybet.sports",
+            "certificate_hash": "6352cd7c2e14e70755c6caf98e14d3f15c9e3a6d"
+          }
+        },
+        {
+          "client_id": "777596879426-455rsi5891243enjqgk9iqkrrppu54or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBldokK2QAcfynwp-SR7Mf6Vx39Q6NV_38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777596879426-455rsi5891243enjqgk9iqkrrppu54or.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777596879426-1clg127c5cuv9svvda7fep46h0tteepf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinitybet.sports.iOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
